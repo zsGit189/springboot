@@ -23,6 +23,7 @@ public class UserController {
 
     @RequestMapping("toLogin")
     public String toLogin() {
+        System.out.println("12312");
 
         return "login";
     }
