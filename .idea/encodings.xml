@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/power" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-dubbo-consumer-anntion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-dubbo-provide-anntion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-highcharts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-solr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-sore" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
